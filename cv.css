@@ -44,20 +44,24 @@ div ul li{
     list-style: circle purple;
     
 }
-.fa {
+
+header i {
     color: purple;
 }
-.fa-linkedin fa {
-    background-color: rebeccapurple;
-}
-i {
-    background-color: rgb(247, 9, 207);
+main i {
+    background-color: rgb(49, 4, 43);
     font-size: 20px;
     padding: 5px;
     font-style: white;
     border-radius: 25px;
     margin-right: 20px;
 }
-div h3 {
+#tab-out {
+    margin: 0%;
+    position: absolute;
+    left: 75px;
     
+}
+.para {
+    padding-top:40px;
 }
